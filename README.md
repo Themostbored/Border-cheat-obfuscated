@@ -1,8 +1,16 @@
 # Border-cheat-obfuscated
 This is the obfuscated version so the devs won't make an anti cheat you damn people. 
 
-If you really want to use the easy on mobile use a loadstring. 
+If you really want to use it easy on mobile use a loadstring. 
 
 # Update ⚠
-Updated it to use more trusted service like moon sec v3. 
-(I know smart people still can deobfuscate it but it's enough to annoy them or make them quit.) 
+Nothing changed but now has a price like apple. 
+
+# officially paid🚨
+It has now a whitelist don't be mad bru. 
+
+# Devs
+Owner(only person) 
+
+# reason 
+I wanted to get rich quick so 😂
